@@ -1,6 +1,6 @@
 # Web Scraping Task
 
-Web scraping task was assigned as the task to be done in week 3 for Data Science Mentorship program under guidance of [@tusharsarkar3](!https://github.com/tusharsarkar3)
+Web scraping task was assigned as the task to be done in week 3 for Data Science Mentorship program under guidance of [@tusharsarkar3](https://github.com/tusharsarkar3)
 
 ### Technologies used:
 1. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) library
